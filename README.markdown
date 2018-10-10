@@ -5,4 +5,4 @@ This repository contains a collection a shinken/nagios plugins we found on the w
 Each script brings its own licence.
 
 
-source github url: https://github.com/sk-rama/shinken.git
+source github url: https://github.com/Sysnove/shinken-plugins
